@@ -1,0 +1,11 @@
+URL,Status,ResponseTime(ms),Error
+https://www.google.com,200,427,
+http://example.com,200,590,
+https://openai.com,403,326,
+https://github.com,200,439,
+htt://broken-link.com,N/A,N/A,"Get ""htt://broken-link.com"": unsupported protocol scheme ""htt"""
+https://stackoverflow.com,200,942,
+https://wikipedia.org,200,861,
+https://invalid_website,N/A,N/A,"Get ""https://invalid_website"": dial tcp: lookup invalid_website: no such host"
+https://news.ycombinator.com,200,1161,
+https://www.python.org,200,420,

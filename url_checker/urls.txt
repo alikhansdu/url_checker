@@ -1,0 +1,10 @@
+https://www.google.com
+http://example.com
+https://openai.com
+https://github.com
+htt://broken-link.com            
+https://stackoverflow.com
+https://wikipedia.org
+https://invalid_website          
+https://news.ycombinator.com
+https://www.python.org
